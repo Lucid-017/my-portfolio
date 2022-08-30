@@ -258,6 +258,7 @@ nav{
     width: 90px;
     justify-content: center;
     align-items: center;
+    box-shadow: 8px 2px 8px 2px rgba(0, 0, 0, 0.062);
 }
 
 @media screen and (min-width:320px) and (max-width:408px){
